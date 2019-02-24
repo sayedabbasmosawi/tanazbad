@@ -10,6 +10,7 @@ public class DokhtarAmme {
 	public static void AssertTrue() {
 		
 		Assert.assertTrue(true);
+		System.out.println("joooooooooooooooooooon");
 		
 		
 	} 
